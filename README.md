@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LimaFelipeGS/WeatherApp/blob/master/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LimaFelipeGS/WeatherApp/blob/main/README.en.md)
 
 # WeatherApp
 
