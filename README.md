@@ -1,5 +1,6 @@
 # WeatherApp
 
+## Descrição
 WeatherApp é uma aplicação simples para desktop desenvolvida em Python para mostrar informações de clima atual de uma cidade para o usuário. A aplicação mostra informações de temperatura e condição climática - como chuva, névoa ou nublado. 
 
 ## Exemplo de Visualização
