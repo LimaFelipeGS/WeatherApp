@@ -27,5 +27,6 @@ A aplicação mostra mensagens de erro compreensivas para os seguintes tipos de 
 
 Após instalação da aplicação, é necessário instalar os pacotes PyQt5 e requests no terminal
 
-`pip install PyQt5`
-`pip install requests`
+```pip install PyQt5```
+
+```pip install requests```
