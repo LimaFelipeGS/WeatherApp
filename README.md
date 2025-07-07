@@ -31,6 +31,6 @@ Após instalação da aplicação, é necessário instalar os pacotes PyQt5 e re
 pip install PyQt5
 ```
 
-```powershell
+```bash
 pip install requests
 ```
