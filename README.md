@@ -27,10 +27,10 @@ A aplicação mostra mensagens de erro compreensivas para os seguintes tipos de 
 
 Após instalação da aplicação, é necessário instalar os pacotes PyQt5 e requests no terminal
 
-```console
+```bash
 pip install PyQt5
 ```
 
-```console
+```powershell
 pip install requests
 ```
