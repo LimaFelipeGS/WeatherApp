@@ -97,7 +97,7 @@ class WeatherApp(QWidget):
                 case 400:
                     self.display_error("Bad Request:\nRevise o nome da cidade")
                 case 401:
-                    self.display_error("Unauthorized:\nAPI Key invalida")
+                    self.display_error("Unauthorized:\nChave API invalida")
                 case 403:
                     self.display_error("Forbidden:\nAcesso Negado")
                 case 404:
