@@ -27,6 +27,16 @@ The application displays comprehensive error messages for the following error ty
 - Server errors
 - Timeout error
 
+## API Key
+
+Use your own API Key to run the applicattion following these steps:
+- Visit [OpenWeatherMap](https://openweathermap.org/)
+- Create your account for free
+- Copy the API Key that will be generated automatically (or create a new key)
+- Replace the value in the "api_key" variable, located in the "get_weather" function
+
+Note: The API Key takes a few hours to be activated, if your key isn't yet active the application will return the message that the key is invalid.
+
 ## Pre-Requisites
 
 After installing the application, it is necessary to install PyQt5 and requests packages with the following terminal commands:
