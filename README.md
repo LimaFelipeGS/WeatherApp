@@ -29,7 +29,7 @@ A aplicação mostra mensagens de erro compreensivas para os seguintes tipos de 
 ## Chave da API
 
 Utilize a sua própria chave da API para executar a aplicação, para isso:
-- Visite https://openweathermap.org/
+- Visite [OpenWeatherMap](https://openweathermap.org/)
 - Crie sua conta gratuitamente
 - Copie a chave da API que será gerada automaticamente (ou crie uma nova chave)
 - Substitua a chave na variável "api_key" na função "get_weather"
