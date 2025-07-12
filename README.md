@@ -26,6 +26,16 @@ A aplicação mostra mensagens de erro compreensivas para os seguintes tipos de 
 - Erros de servidor
 - Erros de timeout
 
+## Chave da API
+
+Utilize a sua própria chave da API para executar a aplicação, para isso:
+- Visite https://openweathermap.org/
+- Crie sua conta gratuitamente
+- Copie a chave da API que será gerada automaticamente (ou crie uma nova chave)
+- Substitua a chave na variável "api_key" na função "get_weather"
+
+Obs: A ativação da chave da API pode levar algumas horas, caso sua chave não esteja ativa ainda, a aplicação irá mostrar uma mensagem de erro para essa situação
+
 ## Pré-Requisitos
 
 Após instalação da aplicação, é necessário instalar os pacotes PyQt5 e requests no terminal com os seguintes comandos:
