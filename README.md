@@ -34,7 +34,7 @@ Utilize a sua própria chave da API para executar a aplicação, para isso:
 - Copie a chave da API que será gerada automaticamente (ou crie uma nova chave)
 - Substitua a chave na variável "api_key" na função "get_weather"
 
-Obs: A ativação da chave da API pode levar algumas horas, caso sua chave não esteja ativa ainda, a aplicação irá mostrar uma mensagem de erro para essa situação
+Obs: A ativação da chave da API pode levar algumas horas, caso sua chave não esteja ativa ainda, a aplicação irá indicar que a chave fornecida é inválida
 
 ## Pré-Requisitos
 
